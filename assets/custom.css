@@ -1,0 +1,43 @@
+html, body {
+        padding:3em;
+        max-width:142em;
+}
+
+img {
+    max-width: 80%;
+
+}
+
+
+/*** Table Styles **/
+
+thead {
+  border-bottom:2px solid #000000;
+  font-size:23px;
+  font-weight: 100;
+}
+
+tr:nth-child(odd) td {
+  background:#EBEBEB;
+}
+
+th{
+    padding: 20px;
+}
+
+td {
+  padding:20px;
+  text-align:left;
+  vertical-align:middle;
+  font-weight:300;
+  font-size:18px;
+}
+
+@media only print {
+    body{
+        font-size: 1em;
+        margin: 0;
+        padding: 0;
+        color: black;
+    }
+}

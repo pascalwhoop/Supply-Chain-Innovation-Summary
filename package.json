@@ -1,0 +1,25 @@
+{
+  "name": "summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "copyScreenshots.js",
+  "dependencies": {
+    "concurrently": "^3.5.0",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.9",
+    "@types/watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server",
+    "build": "pandoc src/summary.md -H header.html --mathjax -o summary.html",
+    "build-watch": "node_modules/watch/cli.js 'echo \"markdown change detechted\" && npm run build' src/",
+    "build-pdf": "cp src/summary.md ./ && pandoc summary.md --toc -o summary.pdf && rm summary.md",
+    "screenshot-watch": "tsc copyScreenshots.ts && node copyScreenshots.js",
+    "start": "node_modules/concurrently/src/main.js 'npm run serve' 'npm run screenshot-watch' 'npm run build-watch'"
+  },
+  "author": "",
+  "license": "ISC"
+}
