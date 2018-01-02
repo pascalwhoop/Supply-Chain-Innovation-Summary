@@ -198,14 +198,92 @@ A case can be made for the following:
 
 1. What is the conceptual difference between technology S-
 curves and diffusion curves?
+    -   S curves talk about the rate of innovation usually observed in the underlying technology and process environment. Diffusion curves talk about the adoption rate of a product by customers
 2. What is the relation between diffusion and adoption curves?
+    -   the diffusion is the integral $\int$ of the adoption function
 3. How do Technology S-curves affect the Kano model analysis
 for products relying on mature technologies? Explain briefly.
+    -   Mature technologies usually exhibit all the key features expected by the customers. Therefore, it can help to discover discrete features that are not needed or may be replaced by a merged superset. Costs can be saved by combining many features into one solution that covers all or by cutting those features that aren't used by the main body of the users.
 4. At which stage of a technology S-curve is the emergence of a
 future dominant design most likely? Explain why.
+    -   During the core functionality phase. Here, the largest success points of a product are discovered. The automobile is not successful because of the color of the radio buttons nor because of any one firm to push their brand image. It's successful because of it's key features (transportation, mobility, ...)
 5. Discuss whether (or not) Tesla’s Model 3 is a disruptive
 innovation.
+    -   It might. If it can actually achieve what it is promising (mass production, low CO2 footprint, long-lasting functioning of the battery system) it can compete well with current cars. Current developments however give little hope that this will actually be the case. Car manufacturing simply is not as scalable as software products are. While it shook the market, it will not displace other competitors or grab a significant part of the market as others are also going to supply similarly competitive products.
 6. How do firms’ performance benchmarks affect their
 technology strategy choices? Why so?
+    -   If they benchmark themselves against their previous years performance, they are fighting their own highscores and not those of the market. Other competitors might radically innovate and completely outperform the firm.
 
 ---
+
+## Chapter 3: Generating Ideas for Innovation
+
+### 1. The “Fuzzy-Front-End” of Idea Generation
+
+Reiterating on the Pentathlon Framework, we look at the first part of the 3 steps: **Idea generation**
+
+Sources of ideas are:
+
+-   Internally generated (46%)
+-   customers (23%)
+-   competitor immitation (11%)
+-   sales force, university, contractors, partners, supplier, ...
+
+Key benchmark factors:
+
+1. Number of ideas generated
+2. Average $\mu$ quality of ideas generated
+3. Variance $\sigma$ of ideas generated
+4. The ability to select the best ones
+
+### 2. Individual Ideation
+
+Pareto principle strikes again: 80% of the best inventions come from 20% of the inventors. This makes sense. If "having ideas" is a skill, then the best at this come up with the majority of good ideas.
+
+### 3. Collaborative Ideation
+
+The infamous "brainstorming": Getting many ideas by many people and trying to cause cross-individual inspiration
+
+#### Osborn's SCAMPER
+
+- Substitute: Replace module, partner, product, source
+- Combine: subcategories, factories, offers
+- Adapt: ...
+- Modify (Magnify, Minify)
+- Put to other uses
+- Eliminate
+- Rearrange
+
+There are more techniques for brainstorming methods. All of them aim towards generating many ideas based on adaption and reshuffling. None specifically aim for disruption though.
+
+#### Dark sides of brainstorming
+-   idea blocking
+-   inefficient (1 speaks, rest listens)
+-   free riding (group results may feel like partially own contribution)
+-   groupthink and conformity
+
+### 4. Identifying Hidden Needs: Lead User Theory
+
+Users of a product range from casual users to high intensity users. iPads are used from playing card games on the couch all the way to complex educational system setups and professional artists.
+
+Tapping into these lead users competencies can help a firm to find the needs of the larger population. The lead users can easily spot the "deligthers" (Kano model). The downside is the possible overengineering of a product. Too many features can scare off new users. Steep learning curves are the result of such innovation cycles.
+
+### Review Questions
+
+1. Why can specific individual ideators be highly valuable for companies?
+    -   Because some few ideators often have the majority of good ideas. This is simply explainable if the "having ideas" activity is seen as a skill and every idea is a highscore or a lap record. The best usually lead the tables and equivalently, they lead the list of best ideas.
+2. How does, ceteris paribus, an increase in number of ideas generated affect the quality (i) of the best idea and (ii) of an average idea? Explain.
+    -   Generally, it depends on the process of increasing the number of ideas. If all other parameters stay the same, yet the individuals simply generate more ideas, statistically the chance of a positive outlier is higher. However, assuming the better ideas are shared earlier and the worse ideas are not shared or only shared when prompted, the overall quality is likely to suffer.
+3. How does brainstorming (Osborn) make use of lateral and vertical thinking?
+    -   It confronts the individuals with all the dimensions of a product and a competency and asks them to adapt and evaluate these adoptions on many different dimensions.
+4. How can hybrid structures help overcome problems with traditional
+brainstorming? (Use two problems of the traditional approach).
+    -   inefficiency: Initially, everyone generates ideas by themselves. This increases the total number of ideas
+    -   groupthink: Because all members generate ideas in solitude, they generate them independent of the others. Only in the following steps, everyone gets introduced to the others ideas. Of course, this phase is still prone to groupthink.
+5. Instead of average customers, the lead user approach focuses on
+extremely demanding customers. Why?
+    -   because they usually know what features will make the product have a competitive advantage / a performance benefit and they can describe exactly where products have strengths and weaknesses
+6. How does the lead user approach incorporate “normal” users?
+    -   It brings many lead users of different product groups together. Some users are lead users in one domain but normal users in other domains. Hence, the lead users are confronted with the views of normal users who are specialists in other domains.
+7. Reflect the lead user approach (coined by E. von Hippel) against disruptive innovation (coined by C. Christensen). Are there contradictions? If so, how can they be reconciled?
+    -   Lead users might may be prone to adding "unneeded bells and whistles" to a product instead of focusing on the next iteration of product disruption. They are focused on their specialist skill-set and the domain in which they work. However, they might sometimes be able to see ways in which a subset of their favorite products be combined to one uniform product that can serve all their needs.
