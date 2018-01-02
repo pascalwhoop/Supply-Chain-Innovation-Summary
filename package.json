@@ -9,11 +9,12 @@
   },
   "devDependencies": {
     "@types/node": "^8.0.9",
-    "@types/watch": "^1.0.0"
+    "@types/watch": "^1.0.0",
+    "browser-sync": "^2.18.13"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "live-server",
+    "serve": "node node_modules/browser-sync/bin/browser-sync.js start --no-ui --start-path 'summary.html' --server './' --files './summary.html'",
     "build": "pandoc src/summary.md -H header.html --mathjax -o summary.html",
     "build-watch": "node_modules/watch/cli.js 'echo \"markdown change detechted\" && npm run build' src/",
     "build-pdf": "cp src/summary.md ./ && pandoc summary.md --toc -o summary.pdf && rm summary.md",

@@ -94,3 +94,118 @@ Services are different from manufacturing as they don't output specific products
         -   Why they got caught can only be guessed. Their technologies were good, highly refined and efficient. But their views were too strongly locked onto their *point of view*, meaning they couldn't see the benefits of the new products over their own. While they had strengths, the new competition had other advantages that answered the demand of the customers better. Once they tried to catch up, the technology gap between them and Google/Apple was too large to recover. Nokia tried with MS but even the software giant could not compete anymore.
 5. How can “Incremental Innovation Trap” be explained by risk taking behavior?
     -   If the organization as a whole is risk averse, the willingness to approach a radical innovation may be low. If one applies the 70:20:10 rule, it is even worse, as only 1/10th of the overall R&D budget is applied to high risk projects and most of them will not succeed. It therefore requires conscious efforts to assure continuous investment and improvement upon all efforts to avoid irrational risk averse behavior and to ensure eventual success with radical innovation.
+
+---
+
+## Chapter 2: Innovation Context and Strategy
+
+###  Innovation in Context
+
+####  Adoption and Diffusion
+
+![](images/pascalwhoop/3.png)
+
+-   Some few adopters pick up on the product in the first phase of the release. If this point can be exited with a velocity of success, a typical adoption curve can be observed until the market is saturated
+
+####  Technology S-Curves
+
+As an example of technology development, the bicycle has slowly been emerging (1815 - 1861) for quiet a while. It has then seen rapid improvement in performance (1885 - 1895), after which it has been dormant for a long time (- 1970's) at which point innovation was retriggered by new materials and a new market demand for trendy styles.
+
+![](images/pascalwhoop/4.png)
+
+The curve is accompanied by 4 phases:
+
+1. emerging
+    -   Understand tech, find adopters, gain experience, advertise   
+2. pacing
+    -   demonstrate skills, find limits, standardize, respond to feedback, learn
+3. key
+    -   improve performance of product, master tech, grow market share
+4. base
+    - be reliable, affordable, be known and respected (marketing), diversify / complement
+
+####  Dominant Designs and Punctuation
+
+![](images/pascalwhoop/5.png)
+
+###  The Need for an Innovation Strategy
+
+If a company needs to improve its performance, it is helpful to **NOT**
+
+-   have everyone either try new things all day without any goal or leadership
+-   or have 50 people always doing the exact same thing over and over again without looking to serve the customer better and ignoring competition
+
+Competitors **WILL BECOME BETTER** hence, a company must also improve its own performance. This is best done with:
+
+-   a clear set of goals
+-   a process of reaching those goals, given
+-   approaches that can lead to the reaching of the goals
+
+So we need: Ideas, development of these ideas and pulling through. If there are too many ideas, you need to choose the right one.
+
+###  Tools for Strategic Analysis and Planning
+
+####  Scenario Planning
+
+Come up with a few dimensions of future developments of the environment:
+
+-   Bitcoin rises, falls
+-   Artificial Intelligence becomes more important, less important
+-   Jobs in AI become: more / less abundant
+...
+
+
+####  Road Mapping
+
+-   Time on x, different levels of abstractions / lanes
+-   it's more about the process of thinking abuot these things than about the roadmap itself.
+
+
+####  Kano Model and Matrix
+
+![](images/pascalwhoop/6.png)
+
+-   The kano matrix however can only show what *customers want* not *technology can provide*. If tech boundries/limits exist, the model is useless.
+-   Many features move from a *delighter* to a *basic* feature, which is expected to exist in every instance of a product class. Cameras used to be a feature for phones and something special. These days, no one buys a phone without a camera.
+
+####  Strategic Canvas
+
+-   Depending on the market in which a company competes, very different strategies can be employed. IT consulting firms often cooperate to serve large customer demands as there is no *limiting* amount of demand. There is "enough for everyone", hence they try to work together to reach all customers instead of trying to steal customers from each other to increase their market share.
+
+
+![](images/pascalwhoop/7.png)
+
+
+###  Disruptive Innovation Strategies
+
+Disruptive innovation (aka Christensen Model) is:
+
+-   a late discovered Technology
+-   that performs less well in some key dimensions
+-   that might offer some additional performance dimensions that previous tech didn't offer
+-   which quickly gains performance in key dimensions and exhibits a faster performance gain $\Delta$ than the previous tech
+
+![](images/pascalwhoop/8.png)
+
+This images neatly shows the difference between staying in the same technology landscape and innovating there vs. completely shifting to a new technology space and introduce a new product in this environment. An example can be made of the horse coaches and automobiles. No matter how good of a horse-breeder you were, once Fords came rolling around the corners, you lost your market.
+
+A case can be made for the following:
+
+-   **Performance oriented firm:** Focus on adaption strategies
+-   **Competitor-oriented (Market)**: Focus on disruption strategies
+
+### Review Questions
+
+1. What is the conceptual difference between technology S-
+curves and diffusion curves?
+2. What is the relation between diffusion and adoption curves?
+3. How do Technology S-curves affect the Kano model analysis
+for products relying on mature technologies? Explain briefly.
+4. At which stage of a technology S-curve is the emergence of a
+future dominant design most likely? Explain why.
+5. Discuss whether (or not) Tesla’s Model 3 is a disruptive
+innovation.
+6. How do firms’ performance benchmarks affect their
+technology strategy choices? Why so?
+
+---
