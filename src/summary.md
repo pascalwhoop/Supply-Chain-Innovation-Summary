@@ -55,6 +55,7 @@ Generally, it's also a difference whether a firm innovates it's process of produ
 Generally, radical innovation is (obviously) more risky and rarely, projects aiming at radical innovation are on time, budget, spec and satisfy the customers demand. Hence, common patterns of budget allocation for the three kinds are 70:20:10.
 
 <a name="pentathlon"></a>
+
 ### The Innovation Process and the Pentathlon Framework
 
 
@@ -222,7 +223,7 @@ technology strategy choices? Why so?
 
 ### 1. The “Fuzzy-Front-End” of Idea Generation
 
-Reiterating on the Pentathlon Framework, we look at the first part of the 3 steps: **Idea generation**
+Reiterating on the [Pentathlon Framework](#pentathlon), we look at the first part of the 3 steps: **Idea generation**
 
 Sources of ideas are:
 
