@@ -279,7 +279,7 @@ Tapping into these lead users competencies can help a firm to find the needs of 
 4. How can hybrid structures help overcome problems with traditional
 brainstorming? (Use two problems of the traditional approach).
     -   inefficiency: Initially, everyone generates ideas by themselves. This increases the total number of ideas
-    -   groupthink: Because all members generate ideas in solitude, they generate them independent of the others. Only in the following steps, everyone gets introduced to the others ideas. Of course, this phase is still prone to groupthink.
+    -   group-think: Because all members generate ideas in solitude, they generate them independent of the others. Only in the following steps, everyone gets introduced to the others ideas. Of course, this phase is still prone to group-think.
 5. Instead of average customers, the lead user approach focuses on
 extremely demanding customers. Why?
     -   because they usually know what features will make the product have a competitive advantage / a performance benefit and they can describe exactly where products have strengths and weaknesses
@@ -287,3 +287,67 @@ extremely demanding customers. Why?
     -   It brings many lead users of different product groups together. Some users are lead users in one domain but normal users in other domains. Hence, the lead users are confronted with the views of normal users who are specialists in other domains.
 7. Reflect the lead user approach (coined by E. von Hippel) against disruptive innovation (coined by C. Christensen). Are there contradictions? If so, how can they be reconciled?
     -   Lead users might may be prone to adding "unneeded bells and whistles" to a product instead of focusing on the next iteration of product disruption. They are focused on their specialist skill-set and the domain in which they work. However, they might sometimes be able to see ways in which a subset of their favorite products be combined to one uniform product that can serve all their needs.
+
+---
+
+## Chapter 4: Protecting Ideas
+
+###  Introduction to Intellectual Property Protection
+
+-   Intellectual property is an **intangible asset** and **one of the most powerful assets for companies**
+-   average value of Fortune 500 firms: 45-75% IP based
+
+![](images/pascalwhoop/9.png)
+
+
+###  Patents and Patenting
+
+-   patents require detailed disclosure (description of functioning )
+-   delivers right for exclusive use (within range of patent office applicability) for limited time
+-   idea must be: novel, practical, inventive
+-   idea **may not** be:
+    -   scientific theory
+    -   mathematical methods or models
+    -   ways of doing business
+    -   ...
+
+**Advantages of patenting** are the exclusive rights of usage and the ability to license it to competitors as well the expression of competency. **Disadvantages** range from the long period until a patent is granted, the costs as well as the revelation of the technique to competitors. Costs can range from 6.000 to a 500k for a worldwide coverage.
+
+
+###  Current Research: Patenting Strategies in Innovation Races
+
+What is the "right" patenting strategy? What should be patented? What should not be patented? What market environment invites patenting and what prohibits it? What are the motives behind the invention?
+
+####  Strategic Issues Pertaining to Patenting
+
+Different strategies of patenting can be defined
+
+![](images/pascalwhoop/10.png)
+
+![](images/pascalwhoop/11.png)
+
+####  R&D and Patenting Strategies on Technology Landscape
+
+Paper written by Sting models and simulates situations of competing firms and their patenting strategies. The technology landscape is described as a n-dimensional continuous space. The space holds a complex polygon which
+describes the paths of research to reach local (or global) maxima.
+
+![](images/pascalwhoop/12.png)
+
+The simulation works by performing many rounds of the game, each round consisting of each player investing into R&D and progressively improve their competencies. Afterwards the player can decide whether to patent or not to patent based on different strategies that are again modeled based on the algebraic properties of the model.
+
+![](images/pascalwhoop/13.png)
+
+If both players are "leaders" meaning their R&D strategy is better and therefore they perform better in their R&D efforts, a mixed strategy Nash-Equilibrium results. A leader vs. follower game is quickly observable to have a pure-strategy Nash-Equilibrium, as the "patent nothing" strategy by the leader dominates all other strategies.
+
+###  Review Questions
+
+1. What are the basic trade-offs in patenting?
+    -   information disclosure vs. exclusive usage rights
+2. Should an R&D leader always patent?
+    -   No, a leader should follow a mixed strategy during a competition with another leader and shouldn't patent anything if he is the sole leader in the market.
+#### 3. When and why may “High-quality Patenting” backfire?
+    -   If the competing firms do not patent anything and if they are either less performing than the own firm or if both firms are followers
+#### 4. How can “Patenting Everything” harm competitors?
+    -   If two leaders compete and the competitor is not patenting anything, patenting everything blocks off access to the competitor but the own firm may keep using the same tech as the competition.
+#### 5. Why should a R&D leader competing with an R&D follower better rely on secrecy instead of patenting?
+    -   Because the follower will otherwise use the patented technologies as a base from which to perform it's own R&D and therefore quickly jump from it's own tech base to the technology level of the leader.
