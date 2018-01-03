@@ -54,7 +54,9 @@ Generally, it's also a difference whether a firm innovates it's process of produ
 
 Generally, radical innovation is (obviously) more risky and rarely, projects aiming at radical innovation are on time, budget, spec and satisfy the customers demand. Hence, common patterns of budget allocation for the three kinds are 70:20:10.
 
+<a name="pentathlon"></a>
 ### The Innovation Process and the Pentathlon Framework
+
 
 The Pentathlon framework describes a funnel of filtering out many initial ideas to only select those with the highest chance of succeeding. To ensure innovation can succeed it is not only important to facilitate it by supplying all the necessary resources and create an environment that is open to innovation but it is also necessary to select and refine ideas and projects.
 
@@ -345,9 +347,76 @@ If both players are "leaders" meaning their R&D strategy is better and therefore
     -   information disclosure vs. exclusive usage rights
 2. Should an R&D leader always patent?
     -   No, a leader should follow a mixed strategy during a competition with another leader and shouldn't patent anything if he is the sole leader in the market.
-#### 3. When and why may “High-quality Patenting” backfire?
+3. When and why may “High-quality Patenting” backfire?
     -   If the competing firms do not patent anything and if they are either less performing than the own firm or if both firms are followers
-#### 4. How can “Patenting Everything” harm competitors?
+4. How can “Patenting Everything” harm competitors?
     -   If two leaders compete and the competitor is not patenting anything, patenting everything blocks off access to the competitor but the own firm may keep using the same tech as the competition.
-#### 5. Why should a R&D leader competing with an R&D follower better rely on secrecy instead of patenting?
+5. Why should a R&D leader competing with an R&D follower better rely on secrecy instead of patenting?
     -   Because the follower will otherwise use the patented technologies as a base from which to perform it's own R&D and therefore quickly jump from it's own tech base to the technology level of the leader.
+
+---
+
+## Chapter 5: Selecting Ideas and Building Portfolios
+
+### Idea Selection
+
+Going back to the [Pentathlon Framework](#pentathlon), the second phase, the selection and prioritization, requires approaches towards filtering the (vast) number of ideas and only select and pursue those that have a high chance of succeeding. As is the nature with ideas, measuring the future success is impossible, as success is based on attributes that cannot be measured before the implementation. So concepts focus on **expected performance** and **relative ratings** by comparing ideas with each other.
+
+![](images/pascalwhoop/14.png)
+
+While *more* ideas generally lead to a higher grade of the *best* idea, finding this best idea in all of the generated ideas becomes harder with an increasing number of competing ideas.
+
+####  Qualitative Methods
+
+Questions that might be asked:
+
+-   is the opportunity real? Or is it targeting potential future environments?
+-   Can you win? Will others be better?
+-   Is it financially sustainable? Do you have the resources?
+
+Dupont and 3M have deployed **scoring models** to rate an idea based on standard questions about "value", "attractiveness", "Fit to existing SC", ...
+
+####  Quantitative Methods and Real Options Logic
+
+![](images/pascalwhoop/15.png)
+
+**Real options logic:** Make several small investments that deliver evidence of success or failure likelihood. According to information theory, the information for a "will produce profit X" is worth the same as the likelihood * expected profit.
+
+####  Using Innovator Knowledge (Ongoing Research aka "Innovators Bias")
+
+-   How likely are you to over (under) rate your own invention?
+    -   Will you even share it? Or will you overrate your benign ideas?
+-   Who are the people choosing the best ideas? Are they adding bias to the selection process?
+
+Paper looks at different stages:
+    -   Ideator's estimation of the idea value
+    -   Accounting E(V) (expected)
+    -   Accounting R(V) (realized)
+
+It also looks at how different levels in the hierarchy influence the innovators bias.
+
+### Portfolio management
+
+Similar to financial portfolios. Finding a balance between risk and costs. Some investments are a big bargain and bring with them a large risk but large possible rewards while others give steady rewards for steady cost. But how to decide how much of each? Which type should receive how much attention, financial backing and trust?
+
+#### Strategic Buckets Approach
+
+![](images/pascalwhoop/16.png)
+
+1. Define a set of innovation domains, or strategic buckets, each
+corresponding to a combination of market and technology novelty.
+2. Allocate resources across the buckets, reflecting their importance in
+supporting your business strategy.
+3. Select the best opportunities/projects within each bucket.
+
+### Review Questions
+
+1. What are advantages and disadvantages of using innovator knowledge for process idea evaluation and selection?
+    -   Pro: The innovator is the best person to understand the idea and describe it's functionality and ability to perform. He came up with the idea and therefore knows it the best
+    -   Con: The innovator is likely biased towards believing the idea is a good one. He would not have introduced it if he didn't believe it was a good idea. Hence, the questions about the quality of the idea should not be answered by himself.
+2. At what stage of innovation are qualitative (resp., quantitative) innovation evaluation methods more adequate? Explain why.
+    - quantitative evaluations are mostly short-term and are based on estimates about continuous values like profit and costs. Qualitative questions are more general, allowing an overall test of an ideas value. Qualitative questions can be asked to let the idea be further developed and extended to insure it's mature. Quantitative measurements can be used to continuously evaluate the expected return of a project and inform decision makers about likely bad or good investment probabilities.
+3. What is the logic of applying “Strategic Buckets” to Innovation
+Management? Explain the approach.
+    -   It brings together qualitative concepts of technology and market environments with quantitative barriers and filters through financial limits
+    -   It ensures a proper balancing between risky, novel market domains and less risky, continuous innovation.
