@@ -31,6 +31,8 @@ $$ f(x) = sin(x) $$
 $$ f(x) = sin(x) $$
 
 -->
+<!--  I put an auto generated TOC in here -->
+<div id="toc"></div>
 
 ---
 
@@ -421,3 +423,131 @@ supporting your business strategy.
 Management? Explain the approach.
     -   It brings together qualitative concepts of technology and market environments with quantitative barriers and filters through financial limits
     -   It ensures a proper balancing between risky, novel market domains and less risky, continuous innovation.
+
+
+---
+
+## Chapter 6: Implementing Innovation
+
+This chapter focuses on the third stage in the [Pentathlon Framework](#pentathlon), the *Implementation*.
+
+### Implementing Innovation: Process View and Measurement
+
+> How do processes differ from projects?
+
+Projects are a one-time unique expenditure that usually tackel novel challenges and intend to lay the foundation for later utility. This can be creating a factory, building software or rescuing a capsized oil tanker. They all have in common the uniqueness of the activities and the utility that follows successful completion of the project. Of course, parts of the framework can be common tasks and there are often processes that are followed within projects.
+
+In the context of SCI, projects are placed within an innovation process, which is a continuous operation of many projects regarding different R&D topics with the goal to receive *products, services, processes* or other forms of *new techniques and improvements* for the firm.
+
+The control measures for SCI during the innovation process cover financial values, time values and portfolio balance values. Examples include:
+
+-   % of revenue invested in R&D
+-   % of product / process / service projects in pipeline
+-   number of patents received
+-   Average $\mu$ break-even point
+-   Average $\mu$ time-to-market
+
+Cooper (1999) observed:
+
+> Too many projects jam the innovation model because of
+
+- too many "must do" projects
+- no strict Go/Kill decisions
+- clear selection metrics and criteria to assess "goodness" of projects
+- lack of senior people's engagement (this is always the best reason :-D )
+
+A solution proposed by Cooper is the "Stage-Gate-Model" which regularly checks projects regarding continued fitness and value. Those projects that don't pass the gates are removed from the pipeline and terminated immediately, freeing up resources and reducing the project backlog. This is also a model trying to address the *sunk-costs bias*, by ignoring money already invested but solely looking at potential future results of each project.
+
+![](images/pascalwhoop/17.png)
+
+Gates include: *Proposal review, revenue-model review, research and feasibility, development progress, ...*
+
+Gatekeepers are: upper management, external stakeholders (not project members), experienced project managers, business development officers, people without *ownership bias*
+
+### Implementing Innovation: People Management
+
+Motivating people for the actions in respect to (social) recognition and (financial) rewards:
+
+![](images/pascalwhoop/18.png)
+
+Since the organization is made up of teams and teams are made up of people, it is important to cascade the motivation's and goals of the organization down to the people, as they are the ones who make the achievement of the goals possible. It is therefore important to **align the organizations goals with those of the employees** through incentives, recognition of effort, payoff or other tools.
+
+### Evaluating the Innovation Process: Innovation Audits
+
+**Maturity stages of the NPD Process**
+
+1. No process
+    -   resource conflicts, no documentation, rules of thumb
+2. Process defined but not used / known / good / accessible
+    -   often ignored, seen as burden
+3. Process used and understood, good for consistent NPD projects
+    -   process understood, visible and used
+4. Continuous Process Improvement: Everyone is living it
+    -   meta-process reviews, metrics based, process is in cultural DNA of company
+
+![](images/pascalwhoop/19.png)
+
+-   **Ideas**
+    -   source, quality, count of ideas, are they followed up on?
+-   **Prioritization**
+    -   balance between types / departments / offerings
+    -   reviews, filtering, benchmarking, feedback
+-   **Implementation**
+    -   pipeline clogged? benchmark to competitors, process optimized, reviews focused
+-   **Innovation Strategy**
+    -   role of technology, top management inclusion, performance measures, innovation network?
+-   **People and Organization**
+    -   meaning understood by employees?
+    -   individual targets < -- > company targets
+    -   culture geared toward innovation
+
+
+
+
+### Case: Accelerating Innovation through Collaboration
+
+This part focused on *ROTO*, a company working on top hung pivot roof windows aka Dachfenster. The status-quo (before the project) was a central Lean Manufacturing Management system with digital visualisations of all projects, dependencies between systems and activities etc. While this was geared towards metric collection and dependency graph analysis, it wasn't tuned towards *human use*. The solution was to disregard the digital system and move towards a paper based in-office board system depicted below
+
+![](images/pascalwhoop/20.png)
+
+The new system was based on the following principles:
+
+-   rigorous stage-gate planning
+-   red-card signals to *call for help* by project members
+-   change in culture, encouraging collaboration
+
+![](images/pascalwhoop/21.png)
+
+Was the digital model bad? Not necessarily. But while it collected data about progress, the usability of the interface was not necessarily good or enjoyable and the current progress of projects and the visibility of issues was not high. An alternative could have been to place displays with clear, distilled status information on the walls instead of the paper boards. But the question of expense-utility needs to be answered. It is quiet expensive to customize such tools while a company of 30 engineers might be just fine with a paper based approach without the ability to perform high-level analysis on it. Larger companies might on the other hand benefit from such digitally based systems.
+
+**Effectiveness of PM is not only driven by 'technical sophistication' of planning tools. The tools need to fit the requirements by the group who uses them.**
+
+### Review Questions
+
+1. Why does a process view help in the implementation of innovations?
+    -   Because, while each project is unique in its challenges and focus, all projects follow the same meta-process and are prone to similar challenges. Hence, a process view of the project progress helps to increase quality by avoiding common pitfalls
+2. A typical concern is “in our company every innovation is different, so measurement of innovation is elusive”. How would you counter that concern?
+    -   While every project is different, they all have similar challenges on a meta-level: competitor performance, cost, time-to-market, expected revenue $\delta$, third-party evaluation of proposal, development progress, forecasted velocity vs. actual velocity
+3. Why can “strategy cascading” enhance the implementation of innovations?
+    -   Because alignment of the firms goals with those of the individuals (or rather the other way around) is essential to have every individual work towards a similar goal. If individual A is incentivized to block innovation because its personal utility is higher when blocking it (such as keeping a job, gaining more money), innovation is blocked from within
+4. How can “project-kill” decisions create value in a stage-gate process?
+    -   by avoiding future costs that exceed utility. By avoiding *sunk-costs fallacies* by stakeholders and cutting losses
+5. Why does an NPD process of highest maturity require regular process reviews?
+    -   Because an innovation process in itself is not immune to change and needs to be updated to stay effective. If process X is valid for the NPD pipeline in 2000, it might be outdated in 2017 when new technologies, partners, strategic goals and other input values are changed.
+6. Why is effective collaboration and communication among R&D employees crucial for the implementation of innovation?
+    -   Because not everyone knows everything. Tapping into knowledge of other employees can save significant hurdles and also spawns creativity by getting outside opinions, new approaches to problems and often simple solutions with tools that the employee in question didn't know about.
+7. How can a “red card process” of help create value for the firm? How could it lead to disadvantageous behavior from the firm’s perspective?
+    -   It can help by helping employees get over blockades faster by seeking help and skills from others. Employees also share knowledge among each other and teach each other essential tools (while teaching also fosters learning in the teacher). It can be disadvantageous, if too many junior employees block the productivity of key employees who drive the innovation process value by having them constantly help and in return never manage to work on their own problems. This can be resolved in two ways: A, ensure only skilled/high potential personell is hired and unskilled personell is let go as not to block the seniors and B avoiding excessive churn in employees.
+
+
+ ---
+
+## Glossary (Terms summary)
+
+Here is a collection of terms you should *just know*. Mostly, they are linked to some part of the text.
+
+-   Product innovation
+-   Process innovation
+-   New Product Development (NPD)
+-   New service Development (NSD)
+-   innovation network
