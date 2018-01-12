@@ -34,6 +34,12 @@ $$ f(x) = sin(x) $$
 <!--  I put an auto generated TOC in here -->
 <div id="toc"></div>
 
+
+### Overview
+The class focuses on the innovation process within the supply chain of businesses. This broadly includes the entire product and service offering of a company as well as their improvement and innovation. The lecture is structured along the [Pentathlon Framework](#pentathlon) which is depicted below. At the end of each chapter, review questions are posed (by the professor) and answered (by me). At the end of the document, I will collect a list of terms which need to be known and hence should be memorized.
+
+![](images/pascalwhoop/22.png)
+
 ---
 
 ## Chapter 1: Types of Innovation
@@ -538,6 +544,60 @@ Was the digital model bad? Not necessarily. But while it collected data about pr
     -   Because not everyone knows everything. Tapping into knowledge of other employees can save significant hurdles and also spawns creativity by getting outside opinions, new approaches to problems and often simple solutions with tools that the employee in question didn't know about.
 7. How can a “red card process” of help create value for the firm? How could it lead to disadvantageous behavior from the firm’s perspective?
     -   It can help by helping employees get over blockades faster by seeking help and skills from others. Employees also share knowledge among each other and teach each other essential tools (while teaching also fosters learning in the teacher). It can be disadvantageous, if too many junior employees block the productivity of key employees who drive the innovation process value by having them constantly help and in return never manage to work on their own problems. This can be resolved in two ways: A, ensure only skilled/high potential personell is hired and unskilled personell is let go as not to block the seniors and B avoiding excessive churn in employees.
+
+
+ ---
+
+## Chapter 7: Supply Chain Innovation “Classics, Trends, and Hypes"
+
+Forces of Innovation (typical name 5 exam question)
+-   information
+    -   Big Data making use of information
+    -   Artificial Intelligence making use of Big Data
+-   Mobile
+-   Cloud Computing
+-   Social (digital)
+
+Gartner called this the "Nexus of forces" in 2014
+
+### Supply chain innovation “classics”
+
+Dimensions of Supply Chain Innovation (triangle of influence):
+-   Supply Chain (Business) Processes
+-   Supply Chain Technology
+-   Supply Chain Network Structure
+
+**Taylorism** describes a methodology according to Taylor that originates in the early 20th century. It breaks down works into many small fragments which don't require complex skill-sets and reduces learning time. This enables a well designed factory filled with unskilled labor to create complex machinery, controlled and steered by a different class of workers, the work-planning "Management" class.
+
+#### Toyota Production System (1990s)
+
+![](images/pascalwhoop/23.png)
+
+#### Amara's Law
+
+> “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.”
+
+### Gartner’s hype cycle of emerging technologies
+
+The hype cycle is made up of two separate developments: The Hype and the Maturity of technologies. As businesses and individuals are looking for the "next big thing", certain technologies get hyped as they appear on the market and lots of information is being spread about them in news, media and discussions. According to Amara however, the technology impact is overestimated in the beginning and so many hyped expectations result in a "Through of disillusionment" as the results cannot make up to the expectations. In the long run, the excitement dies down but the quality of the technology continuously improves and becomes mature.
+
+![](images/pascalwhoop/24.png)
+![](images/pascalwhoop/25.png)
+![](images/pascalwhoop/26.png)
+![](images/pascalwhoop/27.png)
+
+### Review Questions
+
+1.  Describe a supply chain example that illustrates the convergence and mutual reinforcement of social, mobility, cloud and information patterns visualized by the “Nexus of Forces”.
+    -   Amazon: We share our new purchases on Instagram, Facebook etc, purchase them quickly and often on mobile devices, extend the functionality of those purchases with services from cloud offerings (Bluetooth streaming speaker + Spotify) and share all that usage information with Amazon which in turn analyzes it and understands better, what we are likely to buy next.
+1.  Which three dimensions characterize supply chain innovations? Describe a supply chain innovation that illustrates their interconnectedness.
+    -   TODO
+1.  To what extent may the supply chain perspective itself (in contrast to logistics) be understood as an innovation?
+    -   It considers a holistic view on a product, including both the sourcing as well as the customer experience and interaction with the company. Logistics simply focuses on moving goods and information from one location to another but SCM considers potential interactions, cooperations and mutual benefits through interacting and interconnecting with both customers and suppliers.
+1.  Which ideas and concepts compose the hype cycle and what are its major implications?
+    -   The hype-cycle is made up of two separate function terms. One describes the hype of new technologies, which usually occurs in the beginning of the emergence of such technologies. People discuss and share ideas about potential effects of such technologies and get excited about the potential implications. These expectations, often through social network effects, become much more expansive than the actual current state and performance of the technology. Only after a while, when the technology is matured, can it deliver on many of the ideas generated during the hype. However, this often comes too late and the hype tips over into negative press due to unsuccessful projects and reports of low performance. All the *subjective performance* doesn't however actually impact the *objective technology performance* and after a while, the combined function value rises again, due to increased realistic reports of the performance of technology.
+1.  How can hype cycles be measured and in what data can they be tracked?
+    -   Hype cycles can be measured through news outlets, sentiment analysis in text mining and research as well as project reports linked to the technologies referenced in the cycle.
 
 
  ---
