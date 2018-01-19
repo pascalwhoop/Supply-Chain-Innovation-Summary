@@ -553,7 +553,7 @@ Was the digital model bad? Not necessarily. But while it collected data about pr
 Forces of Innovation (typical name 5 exam question)
 -   information
     -   Big Data making use of information
-    -   Artificial Intelligence making use of Big Data
+    -   Artificial Intelligence making use of
 -   Mobile
 -   Cloud Computing
 -   Social (digital)
@@ -601,6 +601,147 @@ The hype cycle is made up of two separate developments: The Hype and the Maturit
 
 
  ---
+
+## Chapter 8: SCI & Big Data
+
+### 1. Problem statement & relevance
+
+> “You can’t manage what you don’t measure.”
+
+-   Information as the driver for decision making on all levels
+-   data growth is exponential
+-   **Challenge:** Identify and extract relevant information, make good decisions upon them
+
+<a name="6v"></a>
+
+#### Big Data 6V's
+
+-   **Volume**
+-   **Variety**
+    -   regarding structuredness
+-   **Velocity**
+-   **Veracity**
+    -   unreliable, misleading, biased, false information
+-   **Variability**
+    -   flow rate and sources
+-   **Value**
+    -   enrichment necessary to extract the valuable parts --> comparable to gold-mining
+
+### 2. Big Data in SCM research
+
+-   Picking up in recent years (2012-2016 from 0 to 600 articles)
+-   Using publicly available data (Twitter/ Google Trends) to predict and monitor vs performance of *old-school* organizations
+
+#### Case-Study: Otto + Blue Yonder
+
+-   Otto used deep supervised learning to improve its automated replenishment decisions.
+    -   input
+        -   Internal: POS, Products, Locations, Promotions
+        -   External: Weather, Day, Dates, Holidays
+    -   output
+        -   Forecasting of demand per product per day
+
+In the next step, Otto then uses the forecasts to derive the optimal replenishment orders, which are constrained by some factors (capacity, delivery delay, min/max order quantities).
+
+#### Performance
+
+-   Data-Driven decision making increases **visibility** and **transparency**
+-   Many factors, adding to a **0.72 coefficient of determination**
+    -   Production analytics most valuable (cost?)
+    -   Analytics of plan 2nd (but abstract?)
+    -   IS systems support strong moderator <-- enabler
+
+
+![](images/pascalwhoop/28.png)
+
+#### Adoption
+
+> Not everyone adopts. Why?
+
+-   Not aware / too busy with day-to-day ops
+-   internal blockades
+    -   culture of privacy
+    -   no IS competency
+    -   mismanagement
+    -   costly data sources
+-   external blockades
+    -   regulations / local laws
+    -   partners not sufficiently digital
+-   Looking for goal first
+    -   firm doesn't want to collect information without reason
+    -   can't see problems until you measure it
+    -   but want problems visible before taking action
+
+**3 Stages of adoption**:
+
+1. Aspirational
+    -   want to be analytic but just use data to justify
+2. Experienced
+    -   use analytics to guide
+3. Transformed
+    -   use analytics to determine action
+
+![](images/pascalwhoop/29.png)
+
+Who adopts? 0.3 adopt, but there are types of firms *more likely* to adopt:
+-   larger / multi-location
+-   IT-intensive / digitalized
+-   educated & learning centered
+
+#### Managerial implications
+
+**HiPPOs: Highest-paid person's opinions**
+-   Reducing the intuition based decision approach with rank overruling rationality towards data-driven and critically reflected decisions
+
+**It's important to ask the right questions, not give authoritarian answers**
+
+### 3. Opportunities and challenges
+#### Mixed capabilities
+
+- Claim: $H+M \leq M$
+    -   Why? Who has final decision power? Does human input ideas or have final decision?
+
+#### Data quality
+
+> Trash in Trash out
+
+Data has several dimensions of correctness that are required:
+-   accuracy (of measurement / data)
+-   timeliness (of delivery)
+-   consistent (formatting)
+-   complete (of records)
+
+### Review questions
+
+1. With which six V's may the term "big data" be characterized? Please illustrate each V with an example.
+    -   [see above](#6v)
+2. According to research findings, what is the impact of Big Data on firm performance?
+    -   The space can explain about 0.6 of the variance in the measured firm performances
+3. Why don’t all firms adopt the new technologies? Who adopts and who doesn’t?
+    -   firms with internal / external blockades
+    -   firms that are too late to the party (i.e. adopt as reaction to competition)
+    -   firms that look for a reason to implement don't just want to "collect data for the sake of collection"
+4. Given the particular strengths & weaknesses of computers vis-à-vis humans, how to best mix their capabilities for e.g. new product development?
+    -   Let humans focus on their skills while making machines perform repetitive and error-prone tasks
+5. What type of decisions mandate, in your opinion, to rely on data respectively on intuition? Please describe typical characteristics.
+    -   Data: Opening a new remote office to be close to the customers --> perform customer analysis instead of going with the big hubs
+    -   Intuition: Design decisions for product design (as long as the design cannot be field-tested and data collected)
+
+---
+
+## Bonus Chapter: BMW Guest Lecture
+
+-   Car industry hasn't seen change in business model in over 100 years
+-   Lifecycle of new models are longer
+-   Integration of new tech very modular and supplier driven --> *Business as usual*
+-   **strong supplier driven innovation**, big brands just *stitch together*
+    -   hence, strong Supply-Chain-Integration with partners
+-   Car-sharing: Becomes first business-model shift
+
+### Innovation trends in the automotive industry
+
+-   Sensor systems, AI, precise world-model
+    - sensors fuel both others, world-model enables performance of AI
 
 ## Glossary (Terms summary)
 
