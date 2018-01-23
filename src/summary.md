@@ -563,6 +563,7 @@ Gartner called this the "Nexus of forces" in 2014
 ### Supply chain innovation “classics”
 
 Dimensions of Supply Chain Innovation (triangle of influence):
+
 -   Supply Chain (Business) Processes
 -   Supply Chain Technology
 -   Supply Chain Network Structure
@@ -729,6 +730,82 @@ Data has several dimensions of correctness that are required:
 
 ---
 
+## Chapter 9: SCI - Virtual and Augmented Reality
+
+### Foundations: terminology & technology
+
+-   **Immersive**: Sensory input, as far as possible, genrated by the digital systems
+-   **3D**
+-   **Interactive**
+-   **Multi-Sensory**: Linked to Immersive --> audio/visual/haptic/...
+-   **Viewer-centered**: POV technology using headsets
+
+The approach towards AR/VR is the idea to be a **more natural** and less *metaphor* based approach towards HCI. There is a continuous transition from pure reality to pure virtuality, with several degrees of augmentation. Simple tools such as handhelds can offer a "window into the virtual world" while head-mounted display overlays offer a more natural and hands-free approach. Concepts such as *the cave* (UTS Sydney) offer a virtual environment without on-person gear using projector based technology.
+
+**Basic functionality required for AR applications according to DHL:**
+
+1. Scene capture
+1. Scene identification
+1. Scene processing
+1. Scene visualisation
+
+### Impact: business use cases
+
+-   Real-estate / sales
+-   Planning, Engineering and Design
+-   Mechanical work support such as packing, assembling and repair
+-   education and training
+-   visualization and data exploration
+
+### Summary, outlook & discussion
+
+Does AR/VR belong to the **incremental, radical or breakthrough technology degree of innovation?**
+
+-   The overall concept of having a digital simulation of a physical environment should be considered breakthrough. However, AR/VR is not the concept of a digital model itself but rather the human interaction with this model redesigned to be more intuitive and oriented towards human sensory input.
+
+Some use-cases such as *on-demand repair support* is therefore a rather incremental improvement to call based support or even video support through video conference tools.
+
+The ability to expose a model of a house / plane / car to a customer and letting the customer customize it in virtual reality before receiving the final product is a radical improvement. It significantly reduces the probability of customers claiming a product was "not delivered as specified", which is often simply caused due to miscommunication.
+
+### Digital Twin reading (Economist 2017)
+
+#### 1. In what ways do “Digital Twins” differ from current supply chain optimization and simulation models?
+
+Current models are academic abstractions and hypothetical models that conceptualize the overall chain. Digital twins on the other hand are highly complex simulations of any machine, module, person or machinery that is involved in the manufacturing process of a factory. Such a system therefore offers a much more fine-grained resolution of how certain changes in the system affect other moving parts. While classical SC models and simulations include either simply academic concepts or simplified simulated systems represented by functions, the digital twins are constructed "bottom up", basing each simulated part on the realistic specifications of the manufacturer or the measured output of real-world objects.
+
+2. In what ways can the “Digital Twin” approach combined with
+AR and VR?
+
+A digital twin that doesn't only include conceptual variables (such as output per minute, failure likelihood, maintenance intervals) but also an accurate, 3D model of the object itself can be easily used to render a POV camera inside of this virtual environment which can then be explored and adapted accordingly. In such environments, the simulation very quickly reaches several layers of complexity. The conceptual level (representations of machine performance, output etc), the visual representation (the machine working, grabbing objects and manipulating them) and the actual real-world object in question.
+
+3. What benefits can be expected from digital twins?
+    -   Accurate predictions of behavior
+    -   simulations offering parameter changes insights
+    -   problem symptom diagnosis
+    -   easier integration (and possibility check) with outside systems
+
+4. What drawbacks of the “Digital Twin” technology might be
+relevant for companies and supply chains?
+    -   costs
+    -   complexity
+    -   possibility of blocking possible partners from cooperation due to lack of digital-twin implementation
+
+
+### Review Questions
+
+1. Define what virtual reality is and explain its basic characteristics.
+    -   a computer generated set of sensory input signals that cause the human brain to interpret it as a coherent, immersive virtual environment which reacts to human manipulation through input devices and allows for intuitive interaction with digital assets
+2. What is the key difference of augmented reality (in comparison to virtual reality)? In answering, utilize Milgram’s (1994) mixed reality continuum.
+    -   Augmented reality does not completely block out the real environment of the actor but rather overlays the *real* stimuli of the actor with digital artifacts such as noises, objects or haptic feedback. At least some part of the physical environment stays noticeable however and often one of the key values of AR is the combination of already existing objects and digital additions that seem to interact with the physical objects.
+3. Using virtual and augmented reality technologies, at which points of the supply chain process may the customer be integrated? What would the key advantages be?
+    -   The customer may be integrated at any point. Early in the SC for educational purposes or for sharing insights and offering transparency and at any point, the customer might give feedback to the supplier based on what he/she observes. Such input may be helpful in adapting processes and material handling but it will also increase the happiness of the customer, as he/she can precisely define additional requirements.
+4. What are the key advantages of augmented reality technologies in assembling and training environments? How may this impact supply chain network structures?
+    -   AR tech offers the support of human motor skills and complex, creative task solving ability with the precision and fault-tolerance of machine sensory input and statistical analytics. It can help construction workers ensure each work step is performed exactly as specified and therefore increase quality and safety. Training environments are more immersive, closer to reality and allow the trainee to become more accustomed to the target environment rather than simply learning through text or image material.
+5. Given the advantages of virtual and augmented reality for the product development process: does corporate culture need to be adapted, too?
+    -   Culture less so, but work processes, tools and user skills need to be adapted and improved. If the culture of the company has not yet included the inclusion of their customers into the design process, then of course, they need to start working on their processes, but it is more likely that such companies will have other problems than trying out AR (such as bankruptcy and outperforming competitors). Listen to your customer man!
+
+----
+
 ## Bonus Chapter: BMW Guest Lecture
 
 -   Car industry hasn't seen change in business model in over 100 years
@@ -743,12 +820,200 @@ Data has several dimensions of correctness that are required:
 -   Sensor systems, AI, precise world-model
     - sensors fuel both others, world-model enables performance of AI
 
+----
+
+## Tutorial 1 - Types of innovation and innovation strategy
+
+### 1. What is innovation and in how far may it conceptually be delineated from invention and creativity?
+
+- innovations don't *need* to be new, merely *perceived* to be.
+- innovation also includes the **implementation**, simply coming up with something without creating a market-ready final product/service is simply considered a creative work
+- is both organizational learning and R&D
+- doesn't need to be a disorganized process but should much rather be controlled, supported and managed
+
+### 2. What need is driving adidas with the “speed factory”? On what dimensions and to what degree does adidas innovate?
+
+- fast turn-around of new product designs
+- quick restocking of highly popular and high-margin products
+-
+
+### 3. Provide an example for an organization caught in the “Incremental Innovation Trap”. Why did that organization get caught in there?
+
+- Nokia, Blackberry, Kodak
+- they all got trapped there, because they were either market leaders or pseudo-leaders, meaning they lead in their respective subfield. Nokia didn't look for new, innovative ways of completely revamp their operating system and model. Apple however offered both a platform for developers to earn money as well as offering customers a widely different user experience. Kodak failed to recognize the shift in the technologies towards digital cameras instead of film based ones.
+- Why?
+    -   lack of skill-set
+    -   risk aversion
+    -   market orientation and focus on current winning market
+    -   focus on cost efficiency
+
+### 4. How do product innovation, process innovation and business model innovation interact? Please describe a vivid example from business practice.
+
+-   highly dependent on product in question: How complex, ease of imitation, reliant on brand vs. function
+-   can be interdependent and fuel each other --> new processes offering higher margins, leading to bigger budgets for R&D or marketing
+-   VW example: manufacturing change --> cheaper repairs --> higher margin + cheaper insurance premiums --> more competitive
+
+### 5. Explain commonalities and differences of product innovation against process innovation by using the generic innovation funnel.
+
+| Product | Process |
+| :------------- | :------------- |
+| often require new production processes | Organizational change of how activities are ordered or structured |
+| new products often require new purchasing / marketing | incur introduction lag / time until employees adapt |
+
+### 6. Explain the purposes of the various tools that aim to support managers in strategizing on innovation (Scenario Planning, Roadmapping, Kano’s Model, Strategic Canvas).
+
+<a name="skrs"></a>
+
+![](images/pascalwhoop/30.png)
+
+
+-   **Scenario Planning:** Picking several dimensions of potential future developments and combining them to construct action plans helps to evaluate which are the best actions that support the most scenarios
+-   **Kano Model**: Categorizing features into *basic, performance and excitement needs* and mapping them to customer satisfaction. Basic needs follow a $\log{x}$ distribution. Performance are mostly linear (meaning +5 performance leads to +5 satisfaction) and excitement needs follow an $x^{1.5}$ distribution, as reasonably strong excitement pleasing features lead to an inflated satisfaction reaction
+-   **Road Mapping**: Plotting phases dependent on different skills/challenges --> overview of future project structure and dependencies
+-   **Strategic Canvas**: Visualizing strengths/weaknesses of competitors and own firm, giving overview of power distribution in the market
+
+
+### 7. What is the conceptual difference between technology S-curves and diffusion curves? And what is the relation between diffusion and adoption curves?
+
+<a name="scurve"></a>
+
+-   **s-curves**: technologies often take time to sufficiently perform. Once the R&D investments start to pay off, the performance increases rapidly until the underlying technology hits a physical barrier or if the product becomes obsolete and R&D investments get cut off
+    -   Emerging, Pacing, Key, Base
+
+<a name="diffcurve"></a>
+
+-   **diffusion curves**: x = time, y = % of adopters, CDC = integral of diffusion curve
+
+### 8. What are the characteristics of a disruptive innovation? Give an example.
+
+- A technology / process / model that addresses a different subset of performance criteria or a different group of customers.
+- established tech satisfies all requirements in major dimensions but doesn't pay attention to possible other dimensions that customers value
+- Initially under-performing but quickly improving with a higher velocity than the preexisting base technology
+- overpassing previous technology and allowing new products to surpass previous ones
+
+
+----
+
+## Tutorial 2: Generating and protecting innovation ideas
+
+### 1. What is the most innovative product you have experienced and how do you think the idea for this emerged?
+
+- the computer: While it is usually believed that Alan Touring invented the computer, it was actually a process that took mathematicians many decades and can be dated back to anything between 1833 and 1940. However, once the technology existed, it revolutionized one industry after another. An obviously innovative process was the cracking of the enigma codes, which allowed the UK and other allies to win the war significantly earlier. While this wasn't a "free market" innovation, it surely was superior to the competition and gave a significant advantage
+
+### 2. How does, ceteris paribus, an increase in number of ideas generated affect the quality (i) of the best idea and (ii) of an average idea? Explain.
+
+-   Up to a certain extend, the increase of ideas generated will also push the probability of the best idea being of higher value, assuming the distribution of idea quality is somewhat resembling a normal distribution.
+- Whether the increase of the number of ideas changes the average quality depends on what is considered by "ceteris paribus". If the expected average quality stays the same (i.e. if we are not adding all the *bad ideas* that haven't been proposed but see each new idea quality as a function of $\mathscr{N}(\mu, \sigma^2)$).
+
+![](images/pascalwhoop/31.png)
+
+However, as we increase the number of additional ideas, the likelihood of getting another *even better* idea is converging towards 0, as the average quality remains the same.
+
+![](images/pascalwhoop/32.png)
+
+### 3. How can hybrid structures help overcome problems with traditional brainstorming? (Use two problems of the traditional approach).
+
+-   **Groupthinking**: The overall number of ideas generated by the group is smaller than the sum of all individually generated ideas (despite removing duplicates). This is due to the effect of groups thinking along the same path, following one storyline instead of each exploring their individual idea path
+-   **Speed of idea creation**: As the whole group is required to follow social protocols and people are not able to listen to 10 people talk at the same time, the overall process takes much longer to generate the same number of ideas
+-   **Freeriding**
+-   **fear of judgement**: Social factors
+
+### 4. Provide an example for the lead user approach and explain why the respective company focuses on extremely demanding customers instead of average customers.
+
+-   **Gaming hardware for PC components**: Everyone wants to be a pro gamer, similar to normal sports equipment (such as Basketball shoes)
+
+### 5. How does the lead user approach incorporate “normal” users?
+
+-   Each user is usually highly skilled in a subset of the overall performance dimensions. Therefore, while lead user A might push the boundary on performance measure A, he will keep user B in check for PM B, if he requests unnecessarily complex additions
+
+
+### 6. What elements and factors need to be considered when developing a patenting strategy?
+
+-   Position in the market
+-   competition type
+-   type of technology (ease of replication, ease of patent circumvention)
+
+![](images/pascalwhoop/33.png)
+
+### 7. What are the basic trade-offs in patenting?
+
+-   cost
+-   exposure to competition
+-   risk of copycats
+-   protection of IP
+-   ability to license
+-   time until patent accepted
+
+### 8. When and why may “High-quality Patenting” backfire?
+
+-   when the competition is in a "follower" position while I am the leader or when I am competing with an equal foe who patents everything
+    -   the follower copies my high-quality patents by slightly adapting and then working on top of my work
+    -   the equal competitor can use my work and his R&D but claims everything while I only claim some products
+
+----
+
+
+## Tutorial 3
+
+### 1. Idea selection: quantitative methods (see assignments on the following slides)
+
+- using real options and decision trees
+- investing small amounts to position *ability* to continue
+- at different stages, evaluate future likelihood of success based on latest information and invest, if net-value is positive
+
+
+### 2. At what stage of innovation are qualitative (resp., quantitative) innovation evaluation methods more adequate? Explain why.
+
+-   Early selection of ideas: qualitative. It is much easier to judge a large number of ideas simply on the idea itself rather than perform a feasibility and cost analysis for each idea for all possible future scenarios.
+-   very early phase: Tournament style. But risk of having an *unfair looser*, meaning you loose a great idea because of factors not related to actual idea worth
+-   with final selection of to-pursue ideas: Quantitative evaluation of each idea
+
+### 3. What are advantages and disadvantages of using innovator knowledge for process idea evaluation and selection?
+
+| Advantages | Disadvantages |
+| :------------- | :------------- |
+| knows idea the best, important source of information | potential systematic bias towards positively evaluating idea value |
+
+### 4. What is the logic of applying “Strategic Buckets” to Innovation Management? Explain the approach.
+
+-   Concept tries to help with balancing investment portfolio across different key strengths of firm. This can be product types or  innovation areas (process, product, business model)
+
+### 5. A typical concern is “in our company every innovation is different, so measurement of innovation is elusive”. How would you counter that concern?
+
+-   That every company faces this issue (as innovation is inherently *different* from previously known approaches) but yet others manage it well
+-   while innovations cannot hardly be compared, they can be evaluated for themselves --> is *this* innovation going to last
+-   using estimates of multiple experienced decision makers gives good probability distribution estimates
+
+### 6. Why can “strategy cascading” enhance the implementation of innovations?
+
+-   top-level goals of firm don't need to be necessarily the same as individual goals of employees
+-   for a firm to be successful, it is best if all parts are aiming towards the same direction
+-   aligning individual goals with firm goals (through incentives) is therefore advised
+
+--> see game theory and incentives for agents to act alongside the designed environment goals
+
+
 ## Glossary (Terms summary)
 
 Here is a collection of terms you should *just know*. Mostly, they are linked to some part of the text.
 
 -   Product innovation
 -   Process innovation
+-   Scenario Planning, Kano Model, Road Mapping, Strategic Canvas [solution](#skrs)
+
 -   New Product Development (NPD)
 -   New service Development (NSD)
 -   innovation network
+- EDI: Exchange of structured company data between trading partners
+- PLM: Product Lifecycle Management (IT supported & data collection)
+- CIM: integrating computers in manufacturing to create interconnected systems
+-   Degrees of innovation
+    -   incremental
+    -   radical
+    -   breakthrough
+- Dimensions of Innovation
+    - products, services, processes (manufacturing + business), business models
+- Dimensions of Innovation
+    -
+-   S-Curve including 4 phase terms [solution](#scurve)
+-   diffusion curve [solution](#diffcurve)
