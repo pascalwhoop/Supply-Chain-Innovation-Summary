@@ -806,6 +806,25 @@ relevant for companies and supply chains?
 
 ----
 
+## Chapter 10: 3D Printing
+
+### Terminology & Technology
+
+The Process:
+-   3D model (digital) design or scan
+-   file which is slice based
+-   used to "print" the resulting object
+
+There are various materials (such as metal, sand, resin or plastic) used in different techniques (such as material extrusion, power bed, jetting, lamination)
+
+However the majority of companies has no experience with 3D printing. Only very few have experimented with it. *It is to question if Ernst & Young 2016 questioned manufacturing companies or any company type?*
+
+### Advantages & challenges
+### Applications & implications
+
+![](images/pascalwhoop/34.png)
+---
+
 ## Bonus Chapter: BMW Guest Lecture
 
 -   Car industry hasn't seen change in business model in over 100 years
@@ -903,7 +922,7 @@ relevant for companies and supply chains?
 ### 2. How does, ceteris paribus, an increase in number of ideas generated affect the quality (i) of the best idea and (ii) of an average idea? Explain.
 
 -   Up to a certain extend, the increase of ideas generated will also push the probability of the best idea being of higher value, assuming the distribution of idea quality is somewhat resembling a normal distribution.
-- Whether the increase of the number of ideas changes the average quality depends on what is considered by "ceteris paribus". If the expected average quality stays the same (i.e. if we are not adding all the *bad ideas* that haven't been proposed but see each new idea quality as a function of $\mathscr{N}(\mu, \sigma^2)$).
+- Whether the increase of the number of ideas changes the average quality depends on what is considered by "ceteris paribus". If the expected average quality stays the same (i.e. if we are not adding all the *bad ideas* that haven't been proposed but see each new idea quality as a function of $\mathscr{N}(\mu, \sigma^2)$ ).
 
 ![](images/pascalwhoop/31.png)
 
