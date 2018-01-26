@@ -2,7 +2,7 @@
 
 University of Cologne winter semester 2017/18
 
-Pascal Brokmeier
+[Pascal Brokmeier](https://pascalbrokmeier.de)
 
 <!-- USAGE INFORMATION
 
@@ -819,10 +819,70 @@ There are various materials (such as metal, sand, resin or plastic) used in diff
 
 However the majority of companies has no experience with 3D printing. Only very few have experimented with it. *It is to question if Ernst & Young 2016 questioned manufacturing companies or any company type?*
 
+![](images/pascalwhoop/34.png)
+
 ### Advantages & challenges
+
+**Advantages**
+
+-   complex shapes easy
+-   no tooling constraints (*except for the printers of course*)
+-   no need to sacrifice part functionality for ease of manufacturing (*again, if printer is all mighty*)
+-   Gapped construction for lightweight builds (only apply material where needed)
+-   quick design iterations
+-   similar to MP3 for music industry
+-   potentially short and easy supply chains
+
+**Challenges**
+
+-   process speed (slow printing)
+-   material tech (not all materials applicable)
+-   Quality not yet up-to-level
+-   higher cost per unit
+-   IP becomes strong challenge
+-   who is liable in case of error? printer, designer, ...
+
 ### Applications & implications
 
-![](images/pascalwhoop/34.png)
+Generally: Whenever it's a small scale, specialized production. This can mean individualized, customized, spare, low-volume, ...
+
+![](images/pascalwhoop/35.png)
+
+One way to look at the usefulness of 3D printing is the idea of the *long tail*. When numbers are low, mass manufacturing makes little sense. But one printer may produce a vast variety of types, serving many different needs.
+
+#### Scenarios
+
+There two different directions for 3D printing:
+
+- **Centralized distribution centers**, following current economies of scale concepts but producing a vast majority of kinds and products.
+    -   aggregating demand for not time-critical applications
+    -   tradeoff between variable cost and fixed costs for machinery
+- **Distributed 3D printers**, eliminating inventories for mission-critical products and drastically reducing transportation cost/time
+    -   higher costs for final location, but might be worth it for certain use cases
+
+### Summary
+
+-   simplify complex product constructions
+-   leverages economies of *scope*
+-   lower market entry barriers
+-   prototyping and spare parts
+
+### Review Questions
+
+1. What are the generic steps in the process of additive manufacturing. Explain.
+    -   design
+    -   map digital 3D design to slice data
+    -   print product layer-by-layer
+2. What are the main implications of 3D printing with regard to supply chains? Base your argumentation on the case of adidas’ speedfactory.
+    -   strong-demand low-volume units can be quickly replenished
+    -   individual / special / complex units can be supplied with ease
+3. What is the role of 3D printing service providers and how do they support the long tail thesis?
+    -   they offer the ability for many different product designers to create their product and offer it to the market, reducing market entry barriers and allowing an even wider variety of products to be purchased on the market
+4. Assuming further improvements in material properties (printability) and printing processes (repeatability), which main application sectors do you expect?
+    -   high-value low-volume products, complex items, individual items (e.g. medicinal implants). Replacements for operating machines (e.g. bolts for big machines in mining) or areas where products are hard to reaquire (e.g. on the moon)
+5. Why would you rather set up a 3D print shop for end users versus launch a 3D printing facility within the B2B sector?
+    -  Good question! End users might be more in the hype phase than businesses. Large cities might have enough population to carry a 3D print shop. Also, B2B would depend on enough customers in the surrounding area that need low volume products printed with the specifications that you can support while consumers are more flexible with the 'what they really want'.  
+
 ---
 
 ## Bonus Chapter: BMW Guest Lecture
@@ -841,22 +901,22 @@ However the majority of companies has no experience with 3D printing. Only very 
 
 ----
 
-## Tutorial 1 - Types of innovation and innovation strategy
+## Tutorial 1: Types of innovation and innovation strategy
 
-### 1. What is innovation and in how far may it conceptually be delineated from invention and creativity?
+1. What is innovation and in how far may it conceptually be delineated from invention and creativity?
 
 - innovations don't *need* to be new, merely *perceived* to be.
 - innovation also includes the **implementation**, simply coming up with something without creating a market-ready final product/service is simply considered a creative work
 - is both organizational learning and R&D
 - doesn't need to be a disorganized process but should much rather be controlled, supported and managed
 
-### 2. What need is driving adidas with the “speed factory”? On what dimensions and to what degree does adidas innovate?
+2. What need is driving adidas with the “speed factory”? On what dimensions and to what degree does adidas innovate?
 
 - fast turn-around of new product designs
 - quick restocking of highly popular and high-margin products
 -
 
-### 3. Provide an example for an organization caught in the “Incremental Innovation Trap”. Why did that organization get caught in there?
+3. Provide an example for an organization caught in the “Incremental Innovation Trap”. Why did that organization get caught in there?
 
 - Nokia, Blackberry, Kodak
 - they all got trapped there, because they were either market leaders or pseudo-leaders, meaning they lead in their respective subfield. Nokia didn't look for new, innovative ways of completely revamp their operating system and model. Apple however offered both a platform for developers to earn money as well as offering customers a widely different user experience. Kodak failed to recognize the shift in the technologies towards digital cameras instead of film based ones.
@@ -866,20 +926,20 @@ However the majority of companies has no experience with 3D printing. Only very 
     -   market orientation and focus on current winning market
     -   focus on cost efficiency
 
-### 4. How do product innovation, process innovation and business model innovation interact? Please describe a vivid example from business practice.
+4. How do product innovation, process innovation and business model innovation interact? Please describe a vivid example from business practice.
 
 -   highly dependent on product in question: How complex, ease of imitation, reliant on brand vs. function
 -   can be interdependent and fuel each other --> new processes offering higher margins, leading to bigger budgets for R&D or marketing
 -   VW example: manufacturing change --> cheaper repairs --> higher margin + cheaper insurance premiums --> more competitive
 
-### 5. Explain commonalities and differences of product innovation against process innovation by using the generic innovation funnel.
+5. Explain commonalities and differences of product innovation against process innovation by using the generic innovation funnel.
 
 | Product | Process |
 | :------------- | :------------- |
 | often require new production processes | Organizational change of how activities are ordered or structured |
 | new products often require new purchasing / marketing | incur introduction lag / time until employees adapt |
 
-### 6. Explain the purposes of the various tools that aim to support managers in strategizing on innovation (Scenario Planning, Roadmapping, Kano’s Model, Strategic Canvas).
+6. Explain the purposes of the various tools that aim to support managers in strategizing on innovation (Scenario Planning, Roadmapping, Kano’s Model, Strategic Canvas).
 
 <a name="skrs"></a>
 
@@ -892,7 +952,7 @@ However the majority of companies has no experience with 3D printing. Only very 
 -   **Strategic Canvas**: Visualizing strengths/weaknesses of competitors and own firm, giving overview of power distribution in the market
 
 
-### 7. What is the conceptual difference between technology S-curves and diffusion curves? And what is the relation between diffusion and adoption curves?
+7. What is the conceptual difference between technology S-curves and diffusion curves? And what is the relation between diffusion and adoption curves?
 
 <a name="scurve"></a>
 
@@ -903,7 +963,7 @@ However the majority of companies has no experience with 3D printing. Only very 
 
 -   **diffusion curves**: x = time, y = % of adopters, CDC = integral of diffusion curve
 
-### 8. What are the characteristics of a disruptive innovation? Give an example.
+8. What are the characteristics of a disruptive innovation? Give an example.
 
 - A technology / process / model that addresses a different subset of performance criteria or a different group of customers.
 - established tech satisfies all requirements in major dimensions but doesn't pay attention to possible other dimensions that customers value
@@ -915,14 +975,14 @@ However the majority of companies has no experience with 3D printing. Only very 
 
 ## Tutorial 2: Generating and protecting innovation ideas
 
-### 1. What is the most innovative product you have experienced and how do you think the idea for this emerged?
+1. What is the most innovative product you have experienced and how do you think the idea for this emerged?
 
 - the computer: While it is usually believed that Alan Touring invented the computer, it was actually a process that took mathematicians many decades and can be dated back to anything between 1833 and 1940. However, once the technology existed, it revolutionized one industry after another. An obviously innovative process was the cracking of the enigma codes, which allowed the UK and other allies to win the war significantly earlier. While this wasn't a "free market" innovation, it surely was superior to the competition and gave a significant advantage
 
-### 2. How does, ceteris paribus, an increase in number of ideas generated affect the quality (i) of the best idea and (ii) of an average idea? Explain.
+2. How does, ceteris paribus, an increase in number of ideas generated affect the quality (i) of the best idea and (ii) of an average idea? Explain.
 
 -   Up to a certain extend, the increase of ideas generated will also push the probability of the best idea being of higher value, assuming the distribution of idea quality is somewhat resembling a normal distribution.
-- Whether the increase of the number of ideas changes the average quality depends on what is considered by "ceteris paribus". If the expected average quality stays the same (i.e. if we are not adding all the *bad ideas* that haven't been proposed but see each new idea quality as a function of $\mathscr{N}(\mu, \sigma^2)$ ).
+- Whether the increase of the number of ideas changes the average quality depends on what is considered by "ceteris paribus". If the expected average quality stays the same (i.e. if we are not adding all the *bad ideas* that haven't been proposed but see each new idea quality as a function of $N(\mu, \sigma^2)$ ).
 
 ![](images/pascalwhoop/31.png)
 
@@ -930,23 +990,23 @@ However, as we increase the number of additional ideas, the likelihood of gettin
 
 ![](images/pascalwhoop/32.png)
 
-### 3. How can hybrid structures help overcome problems with traditional brainstorming? (Use two problems of the traditional approach).
+3. How can hybrid structures help overcome problems with traditional brainstorming? (Use two problems of the traditional approach).
 
 -   **Groupthinking**: The overall number of ideas generated by the group is smaller than the sum of all individually generated ideas (despite removing duplicates). This is due to the effect of groups thinking along the same path, following one storyline instead of each exploring their individual idea path
 -   **Speed of idea creation**: As the whole group is required to follow social protocols and people are not able to listen to 10 people talk at the same time, the overall process takes much longer to generate the same number of ideas
 -   **Freeriding**
 -   **fear of judgement**: Social factors
 
-### 4. Provide an example for the lead user approach and explain why the respective company focuses on extremely demanding customers instead of average customers.
+4. Provide an example for the lead user approach and explain why the respective company focuses on extremely demanding customers instead of average customers.
 
 -   **Gaming hardware for PC components**: Everyone wants to be a pro gamer, similar to normal sports equipment (such as Basketball shoes)
 
-### 5. How does the lead user approach incorporate “normal” users?
+5. How does the lead user approach incorporate “normal” users?
 
 -   Each user is usually highly skilled in a subset of the overall performance dimensions. Therefore, while lead user A might push the boundary on performance measure A, he will keep user B in check for PM B, if he requests unnecessarily complex additions
 
 
-### 6. What elements and factors need to be considered when developing a patenting strategy?
+6. What elements and factors need to be considered when developing a patenting strategy?
 
 -   Position in the market
 -   competition type
@@ -954,7 +1014,7 @@ However, as we increase the number of additional ideas, the likelihood of gettin
 
 ![](images/pascalwhoop/33.png)
 
-### 7. What are the basic trade-offs in patenting?
+7. What are the basic trade-offs in patenting?
 
 -   cost
 -   exposure to competition
@@ -963,7 +1023,7 @@ However, as we increase the number of additional ideas, the likelihood of gettin
 -   ability to license
 -   time until patent accepted
 
-### 8. When and why may “High-quality Patenting” backfire?
+8. When and why may “High-quality Patenting” backfire?
 
 -   when the competition is in a "follower" position while I am the leader or when I am competing with an equal foe who patents everything
     -   the follower copies my high-quality patents by slightly adapting and then working on top of my work
@@ -972,38 +1032,38 @@ However, as we increase the number of additional ideas, the likelihood of gettin
 ----
 
 
-## Tutorial 3
+## Tutorial 3: Ideal selection, portfolio mgmt and innovation implementation
 
-### 1. Idea selection: quantitative methods (see assignments on the following slides)
+1. Idea selection: quantitative methods (see assignments on the following slides)
 
 - using real options and decision trees
 - investing small amounts to position *ability* to continue
 - at different stages, evaluate future likelihood of success based on latest information and invest, if net-value is positive
 
 
-### 2. At what stage of innovation are qualitative (resp., quantitative) innovation evaluation methods more adequate? Explain why.
+2. At what stage of innovation are qualitative (resp., quantitative) innovation evaluation methods more adequate? Explain why.
 
 -   Early selection of ideas: qualitative. It is much easier to judge a large number of ideas simply on the idea itself rather than perform a feasibility and cost analysis for each idea for all possible future scenarios.
 -   very early phase: Tournament style. But risk of having an *unfair looser*, meaning you loose a great idea because of factors not related to actual idea worth
 -   with final selection of to-pursue ideas: Quantitative evaluation of each idea
 
-### 3. What are advantages and disadvantages of using innovator knowledge for process idea evaluation and selection?
+3. What are advantages and disadvantages of using innovator knowledge for process idea evaluation and selection?
 
 | Advantages | Disadvantages |
 | :------------- | :------------- |
 | knows idea the best, important source of information | potential systematic bias towards positively evaluating idea value |
 
-### 4. What is the logic of applying “Strategic Buckets” to Innovation Management? Explain the approach.
+4. What is the logic of applying “Strategic Buckets” to Innovation Management? Explain the approach.
 
 -   Concept tries to help with balancing investment portfolio across different key strengths of firm. This can be product types or  innovation areas (process, product, business model)
 
-### 5. A typical concern is “in our company every innovation is different, so measurement of innovation is elusive”. How would you counter that concern?
+5. A typical concern is “in our company every innovation is different, so measurement of innovation is elusive”. How would you counter that concern?
 
 -   That every company faces this issue (as innovation is inherently *different* from previously known approaches) but yet others manage it well
 -   while innovations cannot hardly be compared, they can be evaluated for themselves --> is *this* innovation going to last
 -   using estimates of multiple experienced decision makers gives good probability distribution estimates
 
-### 6. Why can “strategy cascading” enhance the implementation of innovations?
+6. Why can “strategy cascading” enhance the implementation of innovations?
 
 -   top-level goals of firm don't need to be necessarily the same as individual goals of employees
 -   for a firm to be successful, it is best if all parts are aiming towards the same direction
@@ -1033,6 +1093,5 @@ Here is a collection of terms you should *just know*. Mostly, they are linked to
 - Dimensions of Innovation
     - products, services, processes (manufacturing + business), business models
 - Dimensions of Innovation
-    -
 -   S-Curve including 4 phase terms [solution](#scurve)
 -   diffusion curve [solution](#diffcurve)
